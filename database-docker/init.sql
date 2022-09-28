@@ -1,0 +1,1 @@
+CREATE DATABASE meteorology_api;
